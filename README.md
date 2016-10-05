@@ -1,5 +1,8 @@
 # organize pictures to date folder using Exif data 
 
+## Pre-install
+1. jhead
+
 ## How to Use
 1. execute ezOrganizePic.sh and give one argument to assign the pictures folder
 
